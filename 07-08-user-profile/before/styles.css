@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+.green{ 
+    background-color: green;
+}
+
+.sub,.sub-2{
+    font-style: bold;
+    font-size: xx-large;
+    font-style: arial;
+}
+
+
+.white,.sub{
+    color: white;
+
+}
+
+.light-blue{
+    color: red;
+}
+
+.line-through{
+    text-decoration: line-through;
+}
