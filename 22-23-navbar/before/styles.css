@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    font-weight: bold;
+}
+
+.nav-bar{
+    height: 5vh;
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-buttons{
+    margin:0%;
+    padding: 0%;
+    
+   
+    display: flex;
+    
+    
+    
+}
+
+
+.link:hover{
+    
+    background-color: lightgray;
+    
+}
+
+.link{
+    
+    list-style-type: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+   
+    
+}
+.title{
+    font-size: larger;
+    display: flex;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+    padding-right: 10px;
+}
